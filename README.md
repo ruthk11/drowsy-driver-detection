@@ -1,5 +1,5 @@
 
-# 🚗 Drowsy Driver Detection
+# 🚗 Drowsy Driver Detection System
 
 ## Overview
 This project uses deep learning to detect whether a driver is drowsy or alert using facial images.
